@@ -9,7 +9,7 @@
 ## Pink.ai
 
 ## Integrantes: 
-- <a href="">Elias Biondo</a>
+- Elias Biondo
 - <a href="https://www.linkedin.com/in/gabriela-barretto99/">Gabriela Barretto</a>
 - <a href="www.linkedin.com/in/luca-giberti-63a4ab231">Luca Giberti</a>
 - <a href="https://www.linkedin.com/in/matheus-fidelis-680520232/">Matheus Fidelis</a>
@@ -47,17 +47,6 @@ Todos os notebooks do projeto tem o resultado de execução das células visíve
 Para replicação (reexecução dos códigos), o botão `Open in Colab` disponível na página do arquivo neste repositório do Github.
 > Note que sem salvar uma cópia do notebook no seu Google Drive, não é possível salvar as alterações realizadas no arquivo.
 
-## 🗃 Histórico de lançamentos
-
-* 0.2.0 - 26/08/2022
-    * Definição das colunas escolhidas e tratamentos de dados inicial.
-
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.yggbrasil.com.br/vr">Inteli, Elias Biondo, Gabriela Barretto, Luca Giberti, Matheus Fidelis, Pedro Romão, Wagner Estevam</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
-
-## 🎓 Referências
-
-Aqui estão as referências usadas no projeto:
-
-1. <https://creativecommons.org/share-your-work/>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/2022M3T4-Inteli/Pink.ai">Pink.ai by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/InteliProjects/.github/blob/main/profile/README.md">Inteli, Elias Biondo, <a href="https://www.linkedin.com/in/gabriela-barretto99/">Gabriela Barretto</a>, <a href="www.linkedin.com/in/luca-giberti-63a4ab231">Luca Giberti</a>, <a href="https://www.linkedin.com/in/matheus-fidelis-680520232/">Matheus Fidelis</a>, <a href="https://www.linkedin.com/in/pedro-rom%C3%A3o-734b4920a/">Pedro Romão</a>, <a href="https://www.linkedin.com/in/wagner-estevam-613002232/">Wagner Estevam</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
