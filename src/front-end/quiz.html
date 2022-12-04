@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="./quiz.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.0.0/axios.min.js"></script>
+	<link rel="icon" type="image/x-icon" href="./favicon.svg">
+	<title>0%</title>
+</head>
+<body>
+
+	<div class="quiz active">
+		<div class="progress-bar">
+			<div class="active"></div>
+		</div>
+	
+		<div class="content" id="content">
+			<div class="btn" id="rep-btn">Responder</div>
+		</div>
+	</div>
+
+	<div class="loading">
+		<div class="progress-bar">
+			<div class="active"></div>
+		</div>
+		<div class="lg-content">
+			<div class="loading-area">
+				<img class="infity-loading" src="./loading.svg" alt="símbolo de carregamento">
+				<p class="text" id="loading-text"></p>
+			</div>
+		</div>
+	</div>
+
+	<div class="answer-screen">
+		<div class="progress-bar">
+			<div class="active"></div>
+		</div>
+		<div class="answer-content">
+			<div class="top">
+				<p class="title">Intervalo de sobrevida calculado: <span id="predito"></span></p>
+				<p class="time" id="time"></p>
+				<p class="classification">Tempo de sobrevida <span id="classificacao"></span>.</p>
+			</div>
+			<div class="btm">
+				<p class="warning">
+					Atenção: esse resultado tem acurácia de <b>74.29%</b> e precisão de <b>77.82%</b>. As informações aqui presentes devem ser consideradas somente como uma segunda opinião, visto que as mesmas possuem um erro quadrático de <b>33.92%</b>. Isso quer dizer que, em média, de cada 10 classificações, 7 são corretas e 3 são incorretas.
+				</p>
+			</div>
+		</div>
+	</div>
+
+
+
+	<script src="./quiz.js"></script>
+	
+</body>
+</html>
